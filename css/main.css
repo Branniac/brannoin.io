@@ -1,0 +1,29 @@
+@media (max-width: 500px){
+	.media-info {
+    	margin-top: -100vh;
+	}
+	.timeline-img{
+		background-image: url(../images/timeline-dark.png) !important;
+	}
+	.presale-img{
+		background-image: url(../images/presale-dark.png) !important;
+	}
+	.whitepaper-img{
+		background-image: url(../images/whitepaper-dark.png) !important;
+	}
+	.home-banner{
+			padding-top: 15vh !important;
+		}
+}
+
+.timeline-img{
+	background-image: url(../images/timeline.png);
+}
+
+.presale-img{
+	background-image: url(../images/presale.png);
+}
+
+.whitepaper-img{
+	background-image: url(../images/whitepaper.png);
+}
